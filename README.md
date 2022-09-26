@@ -1,2 +1,2 @@
 # resumeuploader
-I developed this portfolio website using python django framework.
+I developed this resume form using python django framework.
